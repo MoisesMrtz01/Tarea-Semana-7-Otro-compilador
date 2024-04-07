@@ -1,0 +1,1 @@
+el programa ejecutable se encuentra en la carpeta que se llama "dist"
